@@ -1,3 +1,3 @@
-# The-Spark-Foundation-Computer-vision-IOT
+# Computer Vision & Internet of Things
 
-https://www.youtube.com/channel/UCADyIIhj1J7-6eEkqrsbpGg
+
