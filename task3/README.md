@@ -17,3 +17,5 @@ In this project. you used yolo_v3 to detect the social distancing. In order to r
 https://pjreddie.com/media/files/yolov3.weights
 
 ## Demo:
+
+https://www.youtube.com/watch?v=yidqdZy3Sj8&ab_channel=eyagarci
